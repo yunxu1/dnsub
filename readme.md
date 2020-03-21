@@ -70,3 +70,7 @@ dnsub -d example.com -t 200 -f subnames.txt -f2 next.txt -depth 3 -o out.csv -v 
 ```	shell
 dnsub -f sub.txt -f2 sub.txt
 ```
+
+
+
+下版本计划加入API接口查询功能.
