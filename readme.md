@@ -31,6 +31,14 @@ Usage of ./dnsub:
   -h	help （帮助）
 ```
 
+
+
+简单扫描:
+
+```shell
+dnsub -d example.com
+```
+
 ##### 常规扫描:
 
 ```
