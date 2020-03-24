@@ -1,1 +1,2 @@
-再加点好用的功能就开源,有建议欢迎邮箱: yunxuroot#gmail.com
+;有建议欢迎邮箱: yunxuroot#gmail.com
+;补充新功能后代码全部开放
