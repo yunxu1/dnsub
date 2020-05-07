@@ -1,6 +1,6 @@
 # dnsub
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/yunxu1/dnsub)![GitHub All Releases](https://img.shields.io/github/downloads/yunxu1/dnsub/total?style=plastic)![GitHub stars](https://img.shields.io/github/stars/yunxu1/dnsub?style=plastic)	
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/yunxu1/dnsub)     ![GitHub All Releases](https://img.shields.io/github/downloads/yunxu1/dnsub/total?style=plastic)     ![GitHub stars](https://img.shields.io/github/stars/yunxu1/dnsub?style=plastic)     	
 
 
 
