@@ -194,7 +194,7 @@ nohup ./dnsub_linux_amd64 -d example.com -depth 3 -o example.csv -t 200 -f subdo
 dnsub -d example -dot #开启dot模式，速度会变的超鸡曼，慎用
 ```
 
-**场景8：** 我有一批子域名列表想扫描，怎么解决？
+**场景7:** 我有一批子域名列表想扫描，怎么解决？
 
 第一步，你需要把这些子域名放入一个txt文本中每行一个；
 
