@@ -129,7 +129,7 @@ dnsub -d example.com -v 2 -o example.csv
 # -o 设置扫描结果输出到example.csv文件
 ```
 
-![image-20210407163521800](/Users/yunxu/Library/Application Support/typora-user-images/image-20210407163521800.png)
+![image-20210407163521800](./img/image-20210407163521800.png)
 
 > 当然你也可以选择使用`-json`参数输出json格式
 
