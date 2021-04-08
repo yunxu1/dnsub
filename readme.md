@@ -1,6 +1,6 @@
 # dnsub
 
-​		![GitHub release (latest by date)](https://img.shields.io/github/v/release/yunxu1/dnsub)![GitHub All Releases](https://img.shields.io/github/downloads/yunxu1/dnsub/total?style=plastic)![GitHub stars](https://img.shields.io/github/stars/yunxu1/dnsub?style=plastic)
+​		![GitHub release (latest by date)](https://img.shields.io/github/v/release/yunxu1/dnsub)    ![GitHub All Releases](https://img.shields.io/github/downloads/yunxu1/dnsub/total?style=plastic)    ![GitHub stars](https://img.shields.io/github/stars/yunxu1/dnsub?style=plastic)
 
 ​		本工具通过**字典枚举、API查询、爬虫**的方式用于扫描探测子域名,意在帮助用户梳理子域名资产使用,dnsub使用`go`语言高并发扫描，并可展示 **子域名**、**IP** 、 **CNAME**、**域名信息**，处理了枚举中常见的泛解析问题，支持加载多个字典，枚举探测更多深度的子域名信息，帮助用户快速掌握域名资产，扫描速度快效率高且跨平台，希望这款工具能帮助你有更多的收获 : )
 
